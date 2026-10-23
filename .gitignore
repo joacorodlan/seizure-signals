@@ -1,0 +1,13 @@
+# Original source data
+data/raw/
+
+# Generated datasets
+data/processed/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environments and secrets
+.venv/
+.env
