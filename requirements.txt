@@ -1,0 +1,24 @@
+# Direct dependencies used by the project notebooks.
+# Install with: python -m pip install -r requirements.txt
+
+# Data handling and storage
+pandas
+numpy
+duckdb
+openpyxl
+pyarrow
+
+# Visualisation
+matplotlib
+plotly
+
+# Time-series analysis
+statsmodels
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Notebook environment
+jupyterlab
+ipykernel

@@ -1,13 +1,30 @@
-# Original source data
-data/raw/
 
-# Generated datasets
-data/processed/
+# Raw and processed data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
 
-# Python cache
+# Large data and database files
+*.duckdb
+*.duckdb.wal
+*.parquet
+*.xlsx
+*.xls
+*.csv.gz
+
+# Python environments and cache
+.venv/
+venv/
+.env
+.env.*
 __pycache__/
 *.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# Local environments and secrets
-.venv/
-.env
+# OS files
+.DS_Store
+Thumbs.db

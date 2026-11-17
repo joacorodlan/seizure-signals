@@ -1,0 +1,12 @@
+feature,importance
+rolling_mean_3,0.5075682
+lag_1,0.18105246
+lag_2,0.08797645
+month,0.054993585
+year,0.04623233
+rolling_mean_12,0.03742617
+lag_12,0.031042585
+lag_6,0.019335752
+month_sin,0.018813442
+lag_3,0.009055066
+month_cos,0.0065039825

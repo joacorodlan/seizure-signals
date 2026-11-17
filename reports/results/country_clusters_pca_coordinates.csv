@@ -1,0 +1,85 @@
+ISO3,PC1,PC2,cluster,cluster_label,country_name
+AFG,-22.005808647414035,-18.530469388587694,1,Mixed profile,Afghanistan
+ARM,-20.756026251897296,-7.808911231760663,1,Mixed profile,Armenia
+AUT,-2.709556856031815,3.4034087876011365,4,Mixed profile,Austria
+AZE,-25.02333952431689,-16.88330620582909,1,Mixed profile,Azerbaijan
+BEL,-13.222397988126707,28.07110786638818,0,Cocaine-type-oriented,Belgium
+BEN,22.521731663369852,-16.354119449674304,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Benin
+BGR,-4.942218151176607,-6.196497035746453,4,Mixed profile,Bulgaria
+BIH,6.303564285257205,-15.401066162661792,4,Mixed profile,Bosnia and Herzegovina
+BLR,-25.998751383611285,-3.8724357760795662,3,New psychoactive substances-oriented,Belarus
+BOL,5.321337384354412,72.6119175552524,0,Cocaine-type-oriented,Bolivia (Plurinational State of)
+BRA,17.403847594327175,34.383899632258945,0,Cocaine-type-oriented,Brazil
+CAN,-18.659371650216826,3.7879868620427133,4,Mixed profile,Canada
+CHE,-11.120801522400447,20.962234762178355,4,Mixed profile,Switzerland
+CHL,30.74485199555704,9.203823373427817,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Chile
+CIV,8.993456803202452,-19.19076763098708,1,Mixed profile,Côte d'Ivoire
+COL,19.939585316804425,34.10910517826103,0,Cocaine-type-oriented,Colombia
+CRI,32.23415647541631,7.963440155929539,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Costa Rica
+CUB,33.755919045867635,4.154398534756302,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Cuba
+CYP,23.41095769383426,-2.2813302231018677,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Cyprus
+CZE,-4.560123446214742,-6.542494964162162,4,Mixed profile,Czechia
+DEU,-0.8108874823972488,15.150741266452231,4,Mixed profile,Germany
+DNK,21.890379264976094,-5.098550686375227,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Denmark
+DOM,18.30388812019359,38.52268073803079,0,Cocaine-type-oriented,Dominican Republic
+DZA,-0.04635972757511654,-2.959668553145753,4,Mixed profile,Algeria
+ECU,6.176194549347235,45.05086065373441,0,Cocaine-type-oriented,Ecuador
+ESP,27.796961852058406,-0.6092560482722561,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Spain
+FIN,-28.002694327944543,1.3263810333841766,4,Mixed profile,Finland
+GEO,-31.480895841593455,-4.103646562560862,3,New psychoactive substances-oriented,Georgia
+GMB,33.270966644578195,-22.262276717377716,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Gambia
+GRC,10.750331510804871,-3.4807211973188563,4,Mixed profile,Greece
+GTM,28.62273525110906,3.767464120732548,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Guatemala
+HKG,-23.26080351393105,16.425190411998607,4,Mixed profile,"China, Hong Kong SAR"
+HND,38.474590134022044,-7.102436199031586,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Honduras
+HRV,1.5572760761487405,-5.2085709968585565,4,Mixed profile,Croatia
+HUN,-42.705634740242886,3.449141332861463,3,New psychoactive substances-oriented,Hungary
+IND,-13.069163269900228,-11.139446173414926,1,Mixed profile,India
+IRL,23.35618745590441,-19.784572829408944,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Ireland
+ITA,22.34476143334245,7.0760447671102025,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Italy
+JOR,-26.215812058967998,-11.58568374987494,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,Jordan
+KAZ,-0.4463204196539444,-21.65712347293794,1,Mixed profile,Kazakhstan
+KEN,10.592480285948719,-13.307300617434445,1,Mixed profile,Kenya
+KGZ,24.55817295307665,-25.88969550897219,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Kyrgyzstan
+KOR,-57.114852971472395,2.3657424398898597,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,Republic of Korea
+LBY,-0.7750405715396552,-4.828059780164939,4,Mixed profile,Libya
+LCA,40.981204333038754,-15.991166084504993,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Saint Lucia
+LKA,-18.600932432879965,-14.606838832122264,1,Mixed profile,Sri Lanka
+LTU,-44.40467511639013,7.009353637129392,3,New psychoactive substances-oriented,Lithuania
+LUX,-7.68598698107737,-0.22540178644409453,4,Mixed profile,Luxembourg
+LVA,-41.51546005975994,3.744608616272335,3,New psychoactive substances-oriented,Latvia
+MAC,-53.399438724811944,6.641417648664483,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,"Macao SAR, China"
+MAR,9.787336684481023,6.095436034566349,4,Mixed profile,Morocco
+MDA,-7.436058846510053,-3.7788446648265763,4,Mixed profile,Republic of Moldova
+MDV,-20.212655903719995,-11.468441181392025,1,Mixed profile,Maldives
+MEX,-6.687853144819188,-7.617622063475767,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,Mexico
+MLT,-2.9105565046929787,15.354997415745293,4,Mixed profile,Malta
+MMR,-42.496715585309936,-0.9457598657076652,1,Mixed profile,Myanmar
+MUS,-9.151967230183697,-16.71355626889723,1,Mixed profile,Mauritius
+MYS,-27.81926836242476,-9.547850000411998,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,Malaysia
+NGA,11.163146762594131,-18.431400693689266,4,Mixed profile,Nigeria
+NZL,1.3237823528497092,-13.20709448987322,4,Mixed profile,New Zealand
+PAK,-6.132693152906751,-19.93269976278804,1,Mixed profile,Pakistan
+PAN,23.869773497121464,23.239034613533907,0,Cocaine-type-oriented,Panama
+PER,8.611929181542267,63.42436898946745,0,Cocaine-type-oriented,Peru
+PHL,-61.05825339088454,-6.14821396600626,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,Philippines
+POL,-1.740972847331245,-6.950082566683225,4,Mixed profile,Poland
+PRT,14.415381134653304,17.761594003170455,0,Cocaine-type-oriented,Portugal
+PRY,23.158410977442085,22.298846581665515,0,Cocaine-type-oriented,Paraguay
+ROU,7.448436709192451,-5.8474610594120495,4,Mixed profile,Romania
+RUS,-18.766145626113563,-11.173250791090112,4,Mixed profile,Russian Federation
+SLV,40.18554879916678,-16.891458621858984,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,El Salvador
+SRB,8.842847103627506,-9.962881872856876,4,Mixed profile,Serbia
+SUR,11.240488749338935,51.14076633746851,0,Cocaine-type-oriented,Suriname
+SWE,-13.068862241871232,-4.946784088256876,4,Mixed profile,Sweden
+SWZ,48.93502784142079,-32.55168895719948,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Eswatini
+SYR,-14.6086313127403,-15.201107733505676,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,Syrian Arab Republic
+THA,-37.8668653824856,-0.9359755362876417,2,Amphetamine-type stimulants (excluding ecstasy)-oriented,Thailand
+TJK,4.975922311085177,-23.20283857362417,1,Mixed profile,Tajikistan
+UKR,-13.8091314634072,-8.660916323306797,4,Mixed profile,Ukraine
+URY,21.581206286382503,30.63612274183091,0,Cocaine-type-oriented,Uruguay
+UZB,-10.752098612140337,-20.159553488216115,1,Mixed profile,Uzbekistan
+VCT,43.754831232531146,-19.599384484193056,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Saint Vincent and the Grenadines
+VEN,31.59793985234828,7.47834996539796,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Venezuela (Bolivarian Republic of)
+ZAF,-29.542413512502122,9.55934164706963,4,Mixed profile,South Africa
+ZMB,42.396949183270436,-29.393126785903018,5,Cannabis-type (excluding synthetic cannabinoids)-oriented,Zambia

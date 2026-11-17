@@ -1,0 +1,85 @@
+ISO3,cluster,country_name,cluster_label
+BEL,0,Belgium,Cocaine-type-oriented
+BOL,0,Bolivia (Plurinational State of),Cocaine-type-oriented
+BRA,0,Brazil,Cocaine-type-oriented
+COL,0,Colombia,Cocaine-type-oriented
+DOM,0,Dominican Republic,Cocaine-type-oriented
+ECU,0,Ecuador,Cocaine-type-oriented
+PAN,0,Panama,Cocaine-type-oriented
+PRY,0,Paraguay,Cocaine-type-oriented
+PER,0,Peru,Cocaine-type-oriented
+PRT,0,Portugal,Cocaine-type-oriented
+SUR,0,Suriname,Cocaine-type-oriented
+URY,0,Uruguay,Cocaine-type-oriented
+AFG,1,Afghanistan,Mixed profile
+ARM,1,Armenia,Mixed profile
+AZE,1,Azerbaijan,Mixed profile
+CIV,1,Côte d'Ivoire,Mixed profile
+IND,1,India,Mixed profile
+KAZ,1,Kazakhstan,Mixed profile
+KEN,1,Kenya,Mixed profile
+MDV,1,Maldives,Mixed profile
+MUS,1,Mauritius,Mixed profile
+MMR,1,Myanmar,Mixed profile
+PAK,1,Pakistan,Mixed profile
+LKA,1,Sri Lanka,Mixed profile
+TJK,1,Tajikistan,Mixed profile
+UZB,1,Uzbekistan,Mixed profile
+JOR,2,Jordan,Amphetamine-type stimulants (excluding ecstasy)-oriented
+MAC,2,"Macao SAR, China",Amphetamine-type stimulants (excluding ecstasy)-oriented
+MYS,2,Malaysia,Amphetamine-type stimulants (excluding ecstasy)-oriented
+MEX,2,Mexico,Amphetamine-type stimulants (excluding ecstasy)-oriented
+PHL,2,Philippines,Amphetamine-type stimulants (excluding ecstasy)-oriented
+KOR,2,Republic of Korea,Amphetamine-type stimulants (excluding ecstasy)-oriented
+SYR,2,Syrian Arab Republic,Amphetamine-type stimulants (excluding ecstasy)-oriented
+THA,2,Thailand,Amphetamine-type stimulants (excluding ecstasy)-oriented
+BLR,3,Belarus,New psychoactive substances-oriented
+GEO,3,Georgia,New psychoactive substances-oriented
+HUN,3,Hungary,New psychoactive substances-oriented
+LVA,3,Latvia,New psychoactive substances-oriented
+LTU,3,Lithuania,New psychoactive substances-oriented
+DZA,4,Algeria,Mixed profile
+AUT,4,Austria,Mixed profile
+BIH,4,Bosnia and Herzegovina,Mixed profile
+BGR,4,Bulgaria,Mixed profile
+CAN,4,Canada,Mixed profile
+HKG,4,"China, Hong Kong SAR",Mixed profile
+HRV,4,Croatia,Mixed profile
+CZE,4,Czechia,Mixed profile
+FIN,4,Finland,Mixed profile
+DEU,4,Germany,Mixed profile
+GRC,4,Greece,Mixed profile
+LBY,4,Libya,Mixed profile
+LUX,4,Luxembourg,Mixed profile
+MLT,4,Malta,Mixed profile
+MAR,4,Morocco,Mixed profile
+NZL,4,New Zealand,Mixed profile
+NGA,4,Nigeria,Mixed profile
+POL,4,Poland,Mixed profile
+MDA,4,Republic of Moldova,Mixed profile
+ROU,4,Romania,Mixed profile
+RUS,4,Russian Federation,Mixed profile
+SRB,4,Serbia,Mixed profile
+ZAF,4,South Africa,Mixed profile
+SWE,4,Sweden,Mixed profile
+CHE,4,Switzerland,Mixed profile
+UKR,4,Ukraine,Mixed profile
+BEN,5,Benin,Cannabis-type (excluding synthetic cannabinoids)-oriented
+CHL,5,Chile,Cannabis-type (excluding synthetic cannabinoids)-oriented
+CRI,5,Costa Rica,Cannabis-type (excluding synthetic cannabinoids)-oriented
+CUB,5,Cuba,Cannabis-type (excluding synthetic cannabinoids)-oriented
+CYP,5,Cyprus,Cannabis-type (excluding synthetic cannabinoids)-oriented
+DNK,5,Denmark,Cannabis-type (excluding synthetic cannabinoids)-oriented
+SLV,5,El Salvador,Cannabis-type (excluding synthetic cannabinoids)-oriented
+SWZ,5,Eswatini,Cannabis-type (excluding synthetic cannabinoids)-oriented
+GMB,5,Gambia,Cannabis-type (excluding synthetic cannabinoids)-oriented
+GTM,5,Guatemala,Cannabis-type (excluding synthetic cannabinoids)-oriented
+HND,5,Honduras,Cannabis-type (excluding synthetic cannabinoids)-oriented
+IRL,5,Ireland,Cannabis-type (excluding synthetic cannabinoids)-oriented
+ITA,5,Italy,Cannabis-type (excluding synthetic cannabinoids)-oriented
+KGZ,5,Kyrgyzstan,Cannabis-type (excluding synthetic cannabinoids)-oriented
+LCA,5,Saint Lucia,Cannabis-type (excluding synthetic cannabinoids)-oriented
+VCT,5,Saint Vincent and the Grenadines,Cannabis-type (excluding synthetic cannabinoids)-oriented
+ESP,5,Spain,Cannabis-type (excluding synthetic cannabinoids)-oriented
+VEN,5,Venezuela (Bolivarian Republic of),Cannabis-type (excluding synthetic cannabinoids)-oriented
+ZMB,5,Zambia,Cannabis-type (excluding synthetic cannabinoids)-oriented
